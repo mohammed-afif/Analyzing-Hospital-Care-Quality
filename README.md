@@ -1,4 +1,4 @@
-# Analyzing-Hospital-Care-Quality
+# Analyzing Hospital Care Quality
 
 Project Overview:
 
@@ -73,5 +73,5 @@ https://github.com/user-attachments/assets/c7a7c46e-c6e5-4024-a6c3-76e6ffc6e696
 
 ![Screenshot (376)](https://github.com/user-attachments/assets/7dd4a81b-5812-4eac-a23a-6236a99c9dd6)
 
-![Screenshot (377)](https://github.com/user-attachments/assets/189f66da-f652-4340-81ce-b5a15b1fffa6)
+![Screenshot (380)](https://github.com/user-attachments/assets/a912c6e3-7c7f-40a1-9bdb-45f821da1963)
 
