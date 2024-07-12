@@ -75,3 +75,7 @@ https://github.com/user-attachments/assets/c7a7c46e-c6e5-4024-a6c3-76e6ffc6e696
 
 ![Screenshot (380)](https://github.com/user-attachments/assets/a912c6e3-7c7f-40a1-9bdb-45f821da1963)
 
+
+The Survey Questions That Patients answered for the Hospital Care Quality
+
+![Screenshot (385)](https://github.com/user-attachments/assets/4929ecea-18d9-4bbe-ad0a-da756e8bfd73)
